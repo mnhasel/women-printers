@@ -18,16 +18,16 @@ source-code: https://github.com/mnhasel/women-printers
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Women Printers in the West, 1850-1950
+title: Women Letterpress Printers in the West, 1850-1950
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Women Printers
+tagline: Fine Press, Amateur, and Professional Printing by Women in the United States and Europe
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-CSV is a template for creating digital collection exhibits using static web technology."
+description: "Women Letterpress Printers in the West, 1850-1950 is a digital collection that recognizes the contributions of women involved in the letterpress printing and book arts industries between the nineteenth and twentieth centuries."
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: idaho;history;inland northwest
+keywords: women;history;letterpress;book arts
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: Mal Haselberger
 
 ##########
 # COLLECTION SETTINGS
